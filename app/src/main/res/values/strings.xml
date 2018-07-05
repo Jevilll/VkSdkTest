@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ProfiTest</string>
+    <string name="online">Online</string>
+    <string name="onlineMobile">Online mobile</string>
+    <integer name="com_vk_sdk_AppId">6618997</integer>
+    
+    <string name="noAccess">Доступ не предоставлен</string>
+    <string name="repeat">Повторить</string>
+    <string name="error">Ошибка</string>
+    <string name="connectionLost">Нет соединения</string>
+    <string name="connectionFound">Соединение установлено</string>
+    <string name="imageExpanded">imageExpanded</string>
+</resources>
